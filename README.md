@@ -22,9 +22,6 @@ The objective of this project is to build a Machine Learning model that predicts
 - ST Slope
 - Heart Disease Risk (Target Variable)
 
-## Dataset used
-- <a href="/kaggle/input/datasets/adhurimquku/ford-car-price-prediction/ford.csv">Dataset</a>
-
 # Project Process
 
 ## 1️. Data Collection
@@ -76,7 +73,7 @@ The objective of this project is to build a Machine Learning model that predicts
 - Matplotlib / Seaborn
 
 ## User Interface
-- <a href="">View User Interface</a>
+- <a href="https://github.com/komal-3003/HeartStrokePrediction-Logreg/blob/main/Screenshot%202026-05-16%20222737.png">View User Interface</a>
 # Project Insights
 - Chest pain type and maximum heart rate significantly influence prediction
 - Higher cholesterol and resting blood pressure increase heart disease risk
